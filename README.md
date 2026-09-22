@@ -1,193 +1,34 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Palak</h1>
+<h3 align="center">AI/ML Engineer | Full Stack Developer | Data Analytics Enthusiast</h3>
 
-# 👋 Hey, I'm Palak
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=palak2016&label=Profile%20views&color=0e75b6&style=flat" alt="palak2016" /> </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer;Full+Stack+Developer;Data+Analytics+Enthusiast;Building+AI-Powered+Applications;Always+Learning+New+Technologies" />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palak2016" alt="palak2016" /></a> </p>
 
-<img src="https://komarev.com/ghpvc/?username=palak2016&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+- 🌱 I’m currently learning **Deep Learning Generative AI Data Structures & Algorithms Azure AI Services React.js**
 
-</div>
+- 👯 I’m looking to collaborate on **AI/ML Projects, Open Source & Full Stack Applications**
 
----
+- 🤝 I’m looking for help with **Large Scale Machine Learning Projects & MLOps**
 
-# 💫 About Me
+- 💬 Ask me about **Python Machine Learning Flask Django Data Analytics SQL Git Azure AI**
 
-<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZzY2R4Y2l0cGgxNGI0ZmVhcnJlMHRyd2txNWp0dTRkcWQ0eWJiNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+- 📫 How to reach me **palakk8163@gmail.com**
 
-🎓 AI Engineering Student
+- ⚡ Fun fact **I enjoy turning ideas into AI-powered applications.**
 
-💻 Full Stack Developer
-
-🤖 AI & Machine Learning Enthusiast
-
-📊 Data Analytics Explorer
-
-☁ Azure AI Certified
-
-🌱 Currently Learning
-
-- Deep Learning
-- Generative AI
-- MLOps
-- React.js
-- Azure AI Services
-- DSA
-
-👯 Looking to collaborate on
-
-- AI Applications
-- Open Source
-- Full Stack Projects
-
-💬 Ask me about
-
-```
-Python
-Machine Learning
-Flask
-Django
-SQL
-Git
-Azure AI
-Data Analytics
-```
-
-⚡ Fun Fact
-
-> I love transforming innovative ideas into intelligent AI-powered applications.
-
----
-
-# 🌐 Connect with Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/palak-soni31a">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://kaggle.com/palaksoni15">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/>
-</a>
-
-<a href="https://leetcode.com/palak_sonii">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="mailto:palakk8163@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/palak-soni31a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palak-soni31a" height="30" width="40" /></a>
+<a href="https://kaggle.com/palaksoni15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="palaksoni15" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/palak_sonii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="palak_sonii" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-# 🚀 Tech Stack
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=palak2016&show_icons=true&locale=en&layout=compact" alt="palak2016" /></p>
 
-### 👨‍💻 Programming
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=palak2016&show_icons=true&locale=en" alt="palak2016" /></p>
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript"/>
-
-</p>
-
----
-
-### 🌐 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react"/>
-
----
-
-### ⚙ Backend
-
-<img src="https://skillicons.dev/icons?i=flask,django,nodejs,express,nestjs"/>
-
----
-
-### 🛢 Database
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase"/>
-
----
-
-### 🤖 AI • ML • Data Science
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,pandas,seaborn"/>
-
----
-
-### ☁ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=azure,aws,docker,git,github,postman"/>
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=palak2016&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palak2016&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=palak2016&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=palak2016&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=palak2016&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://github.com/palak2016/palak2016/blob/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# ⚡ Quote of the Day
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Building intelligent solutions with code, creativity, and curiosity."*
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=palak2016&" alt="palak2016" /></p>
