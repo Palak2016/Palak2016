@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Palak</h1>
 <h3 align="center">AI/ML Engineer | Full Stack Developer | Data Analytics Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=palak2016&label=Profile%20views&color=0e75b6&style=flat" alt="palak2016" /> </p>
+<p align="left"> <img src="" alt="palak2016" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palak2016" alt="palak2016" /></a> </p>
 
-- 🌱 I’m currently learning **Deep Learning Generative AI Data Structures & Algorithms Azure AI Services React.js**
+- 🌱 I’m currently learning **Deep Learning, Generative AI, Data Structures & Algorithms, Azure AI Services, React.js**
 
 - 👯 I’m looking to collaborate on **AI/ML Projects, Open Source & Full Stack Applications**
 
